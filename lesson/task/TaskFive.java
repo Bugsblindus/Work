@@ -14,6 +14,7 @@ public class TaskFive {
     double frank = 0.172;
     double mark = 0.584;
     double yen = 0.00955;
+
         Scanner scanner = new Scanner(System.in);
         double dollar = scanner.nextDouble();
 
