@@ -23,6 +23,5 @@ public class TaskFive {
                System.out.println("Факториал числа равен: " + fact);
            }
        } */
-
     }
 }
